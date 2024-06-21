@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKI.TOOL.IR.CHECK", "OKI.TOOL.IR.CHECK\OKI.TOOL.IR.CHECK.csproj", "{5D715ED9-BF1B-4F8E-B7A5-7FF2E18625A1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OKI PE CHECK IR", "OKI PE CHECK IR\OKI PE CHECK IR.vdproj", "{5734E4DB-8045-4FE0-A6B1-3BFB0559B271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D715ED9-BF1B-4F8E-B7A5-7FF2E18625A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D715ED9-BF1B-4F8E-B7A5-7FF2E18625A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D715ED9-BF1B-4F8E-B7A5-7FF2E18625A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D715ED9-BF1B-4F8E-B7A5-7FF2E18625A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5734E4DB-8045-4FE0-A6B1-3BFB0559B271}.Debug|Any CPU.ActiveCfg = Debug
+		{5734E4DB-8045-4FE0-A6B1-3BFB0559B271}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A21FB0A-4446-4E6D-A8B9-D8A964B4CE23}
+	EndGlobalSection
+EndGlobal
