@@ -1,0 +1,296 @@
+﻿@using Production.Models
+
+<!-- start page title -->
+<div class="row">
+    <div class="col-12">
+        <div class="page-title-box d-sm-flex align-items-center justify-content-between">
+            <h4 class="mb-sm-0">Dashboard</h4>
+
+            <div class="page-title-right">
+                <ol class="breadcrumb m-0">
+                    <li class="breadcrumb-item"><a href="javascript: void(0);">OKIPE</a></li>
+                    <li class="breadcrumb-item active">Computer</li>
+                </ol>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- end page title -->
+
+<div class="row">
+    <div class="col-xl-3 col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <div class="d-flex">
+                    <div class="flex-grow-1">
+                        <p class="text-truncate font-size-14 mb-2">Total Sales</p>
+                        <h4 class="mb-2">1452</h4>
+                        <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i class="ri-arrow-right-up-line me-1 align-middle"></i>9.23%</span>from previous period</p>
+                    </div>
+                    <div class="avatar-sm">
+                        <span class="avatar-title bg-light text-primary rounded-3">
+                            <i class="ri-shopping-cart-2-line font-size-24"></i>
+                        </span>
+                    </div>
+                </div>
+            </div><!-- end cardbody -->
+        </div><!-- end card -->
+    </div><!-- end col -->
+    <div class="col-xl-3 col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <div class="d-flex">
+                    <div class="flex-grow-1">
+                        <p class="text-truncate font-size-14 mb-2">New Orders</p>
+                        <h4 class="mb-2">938</h4>
+                        <p class="text-muted mb-0"><span class="text-danger fw-bold font-size-12 me-2"><i class="ri-arrow-right-down-line me-1 align-middle"></i>1.09%</span>from previous period</p>
+                    </div>
+                    <div class="avatar-sm">
+                        <span class="avatar-title bg-light text-success rounded-3">
+                            <i class="mdi mdi-currency-usd font-size-24"></i>
+                        </span>
+                    </div>
+                </div>
+            </div><!-- end cardbody -->
+        </div><!-- end card -->
+    </div><!-- end col -->
+    <div class="col-xl-3 col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <div class="d-flex">
+                    <div class="flex-grow-1">
+                        <p class="text-truncate font-size-14 mb-2">New Users</p>
+                        <h4 class="mb-2">8246</h4>
+                        <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i class="ri-arrow-right-up-line me-1 align-middle"></i>16.2%</span>from previous period</p>
+                    </div>
+                    <div class="avatar-sm">
+                        <span class="avatar-title bg-light text-primary rounded-3">
+                            <i class="ri-user-3-line font-size-24"></i>
+                        </span>
+                    </div>
+                </div>
+            </div><!-- end cardbody -->
+        </div><!-- end card -->
+    </div><!-- end col -->
+    <div class="col-xl-3 col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <div class="d-flex">
+                    <div class="flex-grow-1">
+                        <p class="text-truncate font-size-14 mb-2">Unique Visitors</p>
+                        <h4 class="mb-2">29670</h4>
+                        <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i class="ri-arrow-right-up-line me-1 align-middle"></i>11.7%</span>from previous period</p>
+                    </div>
+                    <div class="avatar-sm">
+                        <span class="avatar-title bg-light text-success rounded-3">
+                            <i class="mdi mdi-currency-btc font-size-24"></i>
+                        </span>
+                    </div>
+                </div>
+            </div><!-- end cardbody -->
+        </div><!-- end card -->
+    </div><!-- end col -->
+</div><!-- end row -->
+
+
+<div role="tabpanel">
+    <ul id="myTab" class="nav nav-tabs" role="tablist">
+        <li class="nav-item">
+            <button class="nav-link active" id="tabLine-tab" data-bs-toggle="tab" data-bs-target="#tabLine" type="button" role="tab" aria-controls="tab1" aria-selected="true">Line Production</button>
+        </li>
+        <li class="nav-item">
+            <button class="nav-link" id="tabUnit-tab" data-bs-toggle="tab" data-bs-target="#tabUnit" type="button" role="tab" aria-controls="tab2" aria-selected="false">Unit Production</button>
+        </li>
+        <li class="nav-item">
+            <button class="nav-link" id="tabType-tab" data-bs-toggle="tab" data-bs-target="#tabType" type="button" role="tab" aria-controls="tab3" aria-selected="false">Type Line Production</button>
+        </li>
+    </ul>
+    <div id="myTabContent" class="tab-content">
+        <div class="tab-pane fade show active" id="tabLine" role="tabpanel" aria-labelledby="tabLine-tab">
+            <div class="card">
+                <div class="card-body">
+                    @(Html.DevExtreme().DataGrid<Line>()
+                        .ShowBorders(true)
+                        .Paging(paging => paging.Enabled(false))
+                        .HeaderFilter(f => f.Visible(true))
+                        .Grouping(g => g.AutoExpandAll(false))
+                        .ShowBorders(true)
+                        .FilterRow(filterRow => filterRow
+                        .Visible(true)
+                        .ApplyFilter(GridApplyFilterMode.Auto)
+                        )
+                        .HeaderFilter(headerFilter => headerFilter.Visible(true))
+                        .RemoteOperations(true)
+                        .Scrolling(s => s.Mode(GridScrollingMode.Virtual))
+                        .Height(500)
+                        .Summary(s => s.TotalItems(items =>
+                        {
+                            items.AddFor(m => m.line_name)
+                            .SummaryType(SummaryType.Count);
+                        })
+                        )
+                        .Editing(editing =>
+                        {
+                            editing.Mode(GridEditMode.Form);
+                            editing.AllowUpdating(true);
+                            editing.AllowAdding(true);
+                            editing.AllowDeleting(true);
+                        })
+                        .Columns(columns =>
+                        {
+                            columns.AddFor(m => m.line_name).Caption("Line Name");
+                            columns.AddFor(m => m.Manager).Caption("Manager");
+                            columns.AddFor(m => m.Note)
+                            .Visible(false)
+                            .FormItem(i => i
+                            .Editor(e => e
+                            .TextArea()
+                            .InputAttr("aria-label", "Notes")
+                            .Height(100))
+                            .ColSpan(2)
+                            );
+                        })
+                        .DataSource(d => d.Mvc()
+                        .Controller("Line")
+                        .LoadAction("GetAll")
+                        .UpdateAction("Put")
+                        .InsertAction("Post")
+                        .DeleteAction("Delete")
+                        .Key("Id")
+                        )
+                        )
+
+                </div><!-- end cardbody -->
+            </div><!-- end card -->
+        </div>
+        <div class="tab-pane fade" id="tabUnit" role="tabpanel" aria-labelledby="tabUnit-tab">
+            <div class="card">
+                <div class="card-body">
+                    @(Html.DevExtreme().DataGrid<Unit>()
+                        .ShowBorders(true)
+                        .Paging(paging => paging.Enabled(false))
+                        .HeaderFilter(f => f.Visible(true))
+                        .Grouping(g => g.AutoExpandAll(false))
+                        .ShowBorders(true)
+                        .FilterRow(filterRow => filterRow
+                        .Visible(true)
+                        .ApplyFilter(GridApplyFilterMode.Auto)
+                        )
+                        .HeaderFilter(headerFilter => headerFilter.Visible(true))
+                        .RemoteOperations(true)
+                        .Scrolling(s => s.Mode(GridScrollingMode.Virtual))
+                        .Height(500)
+                        .Summary(s => s.TotalItems(items =>
+                        {
+                            items.AddFor(m => m.unit_name)
+                            .SummaryType(SummaryType.Count);
+
+                        })
+                        )
+
+                        .Editing(editing =>
+                        {
+                            editing.Mode(GridEditMode.Form);
+                            editing.AllowUpdating(true);
+                            editing.AllowAdding(true);
+                            editing.AllowDeleting(true);
+                        })
+                        .Columns(columns =>
+                        {
+                            columns.AddFor(m => m.unit_name).Caption("Unit Name");
+                            columns.AddFor(m => m.line_id).Caption("Line Name")
+                            .Width(125)
+                            .Lookup(lookup => lookup
+                            .DataSource(d => d.Mvc().Controller("Line").LoadAction("GetAll").Key("Id"))
+                            .DisplayExpr("line_name")
+                            .ValueExpr("Id")
+                            );
+                            columns.AddFor(m => m.Note)
+                            .Visible(false)
+                            .FormItem(i => i
+                            .Editor(e => e
+                            .TextArea()
+                            .InputAttr("aria-label", "Notes")
+                            .Height(100))
+                            .ColSpan(2)
+                            );
+                        })
+                        .DataSource(d => d.Mvc()
+                        .Controller("Unit")
+                        .LoadAction("GetAll")
+                        .UpdateAction("Put")
+                        .InsertAction("Post")
+                        .DeleteAction("Delete")
+                        .Key("Id")
+                        )
+                        )
+                </div><!-- end cardbody -->
+            </div><!-- end card -->
+        </div>
+        <div class="tab-pane fade" id="tabType" role="tabpanel" aria-labelledby="tabType-tab">
+            <div class="card">
+                <div class="card-body">
+                    @(Html.DevExtreme().DataGrid<Line>()
+                        .ShowBorders(true)
+                        .Paging(paging => paging.Enabled(false))
+                        .HeaderFilter(f => f.Visible(true))
+                        .Grouping(g => g.AutoExpandAll(false))
+                        .ShowBorders(true)
+                        .FilterRow(filterRow => filterRow
+                        .Visible(true)
+                        .ApplyFilter(GridApplyFilterMode.Auto)
+                        )
+                        .HeaderFilter(headerFilter => headerFilter.Visible(true))
+                        .RemoteOperations(true)
+                        .Scrolling(s => s.Mode(GridScrollingMode.Virtual))
+                        .Height(500)
+                        .Summary(s => s.TotalItems(items =>
+                        {
+                            items.AddFor(m => m.line_name)
+                            .SummaryType(SummaryType.Count);
+                        })
+                        )
+                        .Editing(editing =>
+                        {
+                            editing.Mode(GridEditMode.Form);
+                            editing.AllowUpdating(true);
+                            editing.AllowAdding(true);
+                            editing.AllowDeleting(true);
+                        })
+                        .Columns(columns =>
+                        {
+                            columns.AddFor(m => m.line_name).Caption("Line Name");
+                            columns.AddFor(m => m.Manager).Caption("Manager");
+                            columns.AddFor(m => m.Note)
+                            .Visible(false)
+                            .FormItem(i => i
+                            .Editor(e => e
+                            .TextArea()
+                            .InputAttr("aria-label", "Notes")
+                            .Height(100))
+                            .ColSpan(2)
+                            );
+                        })
+                        .DataSource(d => d.Mvc()
+                        .Controller("Line")
+                        .LoadAction("GetAll")
+                        .UpdateAction("Put")
+                        .InsertAction("Post")
+                        .DeleteAction("Delete")
+                        .Key("Id")
+                        )
+                        )
+
+                </div><!-- end cardbody -->
+            </div><!-- end card -->
+        </div>
+    </div>
+</div>
+
+<script>
+    // Initialize Bootstrap tab plugin
+    var myTab = new bootstrap.Tab(document.getElementById('myTab'));
+    var tabContent = new bootstrap.TabContent(document.getElementById('myTabContent'));
+    myTab.show('tabLine-tab');
+</script>

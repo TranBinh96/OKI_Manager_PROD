@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project_OKI_PE\\Production\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\areas\\customer\\views\\detailproduction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\views\\detailproduction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\areas\\customer\\controllers\\detailproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\controllers\\detailproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\wwwroot\\js\\mybody.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\wwwroot\\js\\mybody.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\wwwroot\\js\\vendor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\wwwroot\\js\\vendor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|d:\\project_oki_pe\\production\\systemweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SystemWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:16:28.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "SystemWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:10:51.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:10:24.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T07:09:57.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T07:09:56.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailProductionController.cs",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\DetailProductionController.cs",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Controllers\\DetailProductionController.cs",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\DetailProductionController.cs",
+              "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Controllers\\DetailProductionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:07:48.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T05:24:15.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mybody.js",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\wwwroot\\js\\mybody.js",
+              "RelativeDocumentMoniker": "SystemWeb\\wwwroot\\js\\mybody.js",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\wwwroot\\js\\mybody.js",
+              "RelativeToolTip": "SystemWeb\\wwwroot\\js\\mybody.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-20T05:23:56.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vendor.js",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\wwwroot\\js\\vendor.js",
+              "RelativeDocumentMoniker": "SystemWeb\\wwwroot\\js\\vendor.js",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\wwwroot\\js\\vendor.js",
+              "RelativeToolTip": "SystemWeb\\wwwroot\\js\\vendor.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-20T05:23:55.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Views\\DetailProduction\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Views\\DetailProduction\\Index.cshtml",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Customer\\Views\\DetailProduction\\Index.cshtml",
+              "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Views\\DetailProduction\\Index.cshtml",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAAAAwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T05:23:09.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Project_OKI_PE\\Production\\SystemWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T05:22:57.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿@using DevExtreme.AspNet.Mvc
+@using Production.Models
+<h2>Category</h2>
+
+@(Html.DevExtreme().DataGrid<DetailComputer>()
+
+        .ShowBorders(true)
+        .Editing(editing =>
+        {
+            editing.Mode(GridEditMode.Row);
+            editing.AllowUpdating(true);
+            editing.AllowAdding(true);
+        })
+        .Columns(columns =>
+        {
+            columns.AddFor(m => m.HostName);
+
+        })
+        .DataSource(d => d.Mvc()
+            .Controller("DetailComputers")
+            .LoadAction("Get")
+            .InsertAction("Post")
+            .UpdateAction("Put")
+            .Key("Id")
+        )
+    )

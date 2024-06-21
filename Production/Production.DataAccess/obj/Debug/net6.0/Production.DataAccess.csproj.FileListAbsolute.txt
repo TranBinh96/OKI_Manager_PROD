@@ -1,0 +1,17 @@
+D:\Project_OKI_PE\Production\Production.DataAccess\bin\Debug\net6.0\Production.DataAccess.deps.json
+D:\Project_OKI_PE\Production\Production.DataAccess\bin\Debug\net6.0\Production.DataAccess.runtimeconfig.json
+D:\Project_OKI_PE\Production\Production.DataAccess\bin\Debug\net6.0\Production.DataAccess.dll
+D:\Project_OKI_PE\Production\Production.DataAccess\bin\Debug\net6.0\Production.DataAccess.pdb
+D:\Project_OKI_PE\Production\Production.DataAccess\bin\Debug\net6.0\Production.Models.dll
+D:\Project_OKI_PE\Production\Production.DataAccess\bin\Debug\net6.0\Production.Models.pdb
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\Production.DataAccess.csproj.AssemblyReference.cache
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\Production.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\Production.DataAccess.AssemblyInfoInputs.cache
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\Production.DataAccess.AssemblyInfo.cs
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\Production.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\Producti.50BE9151.Up2Date
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\Production.DataAccess.dll
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\refint\Production.DataAccess.dll
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\Production.DataAccess.pdb
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\Production.DataAccess.genruntimeconfig.cache
+D:\Project_OKI_PE\Production\Production.DataAccess\obj\Debug\net6.0\ref\Production.DataAccess.dll

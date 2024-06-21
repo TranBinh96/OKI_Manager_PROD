@@ -1,0 +1,11 @@
+D:\Project_OKI_PE\Production\Production.Models\bin\Release\net6.0\Production.Models.deps.json
+D:\Project_OKI_PE\Production\Production.Models\bin\Release\net6.0\Production.Models.dll
+D:\Project_OKI_PE\Production\Production.Models\bin\Release\net6.0\Production.Models.pdb
+D:\Project_OKI_PE\Production\Production.Models\obj\Release\net6.0\Production.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_OKI_PE\Production\Production.Models\obj\Release\net6.0\Production.Models.AssemblyInfoInputs.cache
+D:\Project_OKI_PE\Production\Production.Models\obj\Release\net6.0\Production.Models.AssemblyInfo.cs
+D:\Project_OKI_PE\Production\Production.Models\obj\Release\net6.0\Production.Models.csproj.CoreCompileInputs.cache
+D:\Project_OKI_PE\Production\Production.Models\obj\Release\net6.0\Production.Models.dll
+D:\Project_OKI_PE\Production\Production.Models\obj\Release\net6.0\refint\Production.Models.dll
+D:\Project_OKI_PE\Production\Production.Models\obj\Release\net6.0\Production.Models.pdb
+D:\Project_OKI_PE\Production\Production.Models\obj\Release\net6.0\ref\Production.Models.dll
