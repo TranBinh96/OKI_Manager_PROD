@@ -19,11 +19,8 @@ namespace SystemWeb.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
-
             return View();
-        }
-
-        
+        }       
 
         [HttpGet]
         public object GetStatus(DataSourceLoadOptions loadOptions)
@@ -32,7 +29,9 @@ namespace SystemWeb.Areas.Admin.Controllers
             {
                 new { Id = 0, Status = "Running" },
                 new { Id = 1, Status = "OK" },
-                new { Id = 2, Status = "Approve" }
+                new { Id = 2, Status = "Approve" },
+                new { Id = 3, Status = "PC NEW" },
+                new { Id = 4, Status = "PC SETUP OK" }
             };
             return DataSourceLoader.Load(status, loadOptions);
         }
@@ -47,8 +46,9 @@ namespace SystemWeb.Areas.Admin.Controllers
         public IActionResult Post(string values)
         {
             var newComputer = new Computer_Production();
-            JsonConvert.PopulateObject(values, newComputer);          
-
+            JsonConvert.PopulateObject(values, newComputer);      
+            newComputer.CreateDate = DateTime.Now;
+            newComputer.UpdateDate = DateTime.Now;  
             _unitOfWork.Computer.Add(newComputer);
             _unitOfWork.Save();
             return Ok();
@@ -59,7 +59,7 @@ namespace SystemWeb.Areas.Admin.Controllers
         {
             var computer = _unitOfWork.Computer.GetFirstOrDefault(a => a.Id == key);
             JsonConvert.PopulateObject(values, computer);
-
+            computer.UpdateDate = DateTime.Now;  
             _unitOfWork.Save();
 
             return Ok();

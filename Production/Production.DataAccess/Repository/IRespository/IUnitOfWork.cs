@@ -6,5 +6,8 @@ public interface IUnitOfWork
     IUnitRepository Unit {  get; }
     ITypeLineRepository TypeLine { get; }
     IComputerProductionRepository Computer {  get; }
+    IToolRepository Tool { get; }
+    IPersonnelRepository Personnel { get; }
+    IMachineDeliveryRepository MachineDelivery { get; }
     void Save();
 }

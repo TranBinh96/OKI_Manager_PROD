@@ -9,3 +9,15 @@ D:\Project_OKI_PE\Production\Production.Models\obj\Debug\net6.0\Production.Model
 D:\Project_OKI_PE\Production\Production.Models\obj\Debug\net6.0\refint\Production.Models.dll
 D:\Project_OKI_PE\Production\Production.Models\obj\Debug\net6.0\Production.Models.pdb
 D:\Project_OKI_PE\Production\Production.Models\obj\Debug\net6.0\ref\Production.Models.dll
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\bin\Debug\net6.0\Production.Models.deps.json
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\bin\Debug\net6.0\Production.Models.dll
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\bin\Debug\net6.0\Production.Models.pdb
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\obj\Debug\net6.0\Production.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\obj\Debug\net6.0\Production.Models.AssemblyInfoInputs.cache
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\obj\Debug\net6.0\Production.Models.AssemblyInfo.cs
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\obj\Debug\net6.0\Production.Models.csproj.CoreCompileInputs.cache
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\obj\Debug\net6.0\Production.Models.sourcelink.json
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\obj\Debug\net6.0\Production.Models.dll
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\obj\Debug\net6.0\refint\Production.Models.dll
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\obj\Debug\net6.0\Production.Models.pdb
+C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.Models\obj\Debug\net6.0\ref\Production.Models.dll

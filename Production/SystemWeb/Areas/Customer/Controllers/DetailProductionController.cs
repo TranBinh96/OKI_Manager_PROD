@@ -15,9 +15,8 @@ namespace SystemWeb.Areas.Customer.Controllers
         {
             _unitOfWork = unitOfWork;
         }
-        public IActionResult Index()
+        public IActionResult Index()       
         {
-
             return View();
         }
 
@@ -61,7 +60,8 @@ namespace SystemWeb.Areas.Customer.Controllers
                     Note = computer.computer.Note,
                     PersonCharge = computer.line.Manager,
                     TypePC = computer.type.Type_name,
-                    CreateDate = computer.computer.CreateDate
+                    CreateDate = computer.computer.CreateDate,
+                    UpdateDate = computer.computer.UpdateDate
                 });
             }
             return detailComputers;

@@ -15,12 +15,18 @@ public class UnitOfWork : IUnitOfWork
         Unit = new UnitRepository(_db);
         TypeLine = new TypeLineRepository(_db);
         Computer = new ComputerProductionRepository(_db);
+        Tool = new ToolRepository(_db);
+        Personnel = new PersonnelRepository(_db);
+        MachineDelivery = new MachineDeliveryRepository(_db);
     }
     public ILineRepository Line { get; private set; }
     public IUnitRepository Unit { get; private set; }
     public ITypeLineRepository TypeLine { get; private set; }
     public IComputerProductionRepository Computer { get; }
-    public IDetailComputerRepository DetailComputer { get; private set; }   
+    public IDetailComputerRepository DetailComputer { get; private set; }
+    public IToolRepository Tool { get; private set; }
+    public IMachineDeliveryRepository MachineDelivery { get; private set; }
+    public IPersonnelRepository Personnel { get; private set; }
 
     public void Save()
     {

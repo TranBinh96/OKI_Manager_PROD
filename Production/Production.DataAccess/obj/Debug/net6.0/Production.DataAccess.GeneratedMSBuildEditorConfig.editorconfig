@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Production.DataAccess
-build_property.ProjectDir = D:\Project_OKI_PE\Production\Production.DataAccess\
+build_property.ProjectDir = C:\Users\BINHTT\Desktop\OKI.PE.GIT\OKI_Manager_PROD\Production\Production.DataAccess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

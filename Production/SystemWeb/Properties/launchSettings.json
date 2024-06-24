@@ -18,7 +18,7 @@
         "SystemWeb": {
             "commandName": "Project",
             "launchBrowser": true,
-            "applicationUrl": "http://localhost:5000",
+            "applicationUrl": "http://10.17.156.124:80",
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             }

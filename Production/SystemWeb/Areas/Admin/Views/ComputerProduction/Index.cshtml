@@ -100,7 +100,7 @@
             <button class="nav-link active" id="tabComputer-tab" data-bs-toggle="tab" data-bs-target="#tabComputer" type="button" role="tab" aria-controls="tab1" aria-selected="true">Computer Production</button>
         </li>
         <li class="nav-item">
-            <button class="nav-link" id="tabUnit-tab" data-bs-toggle="tab" data-bs-target="#tabUnit" type="button" role="tab" aria-controls="tab2" aria-selected="false">Unit Production</button>
+            <button class="nav-link" id="tabMachineDeliveryt-tab" data-bs-toggle="tab" data-bs-target="#tabMachineDelivery" type="button" role="tab" aria-controls="tab2" aria-selected="false">MachineDelivery</button>
         </li>
         <li class="nav-item">
             <button class="nav-link" id="tabType-tab" data-bs-toggle="tab" data-bs-target="#tabType" type="button" role="tab" aria-controls="tab3" aria-selected="false">Type Line Production</button>
@@ -146,8 +146,8 @@
                         })
                         .Columns(columns =>
                         {
-
-                            columns.AddFor(m => m.HostName).Caption("HostName").Width(100);
+                            columns.AddFor(m => m.CreateDate).Caption("CreateDate");
+                            columns.AddFor(m => m.HostName).Caption("HostName").Width(130);
                             columns.AddFor(m => m.IP).Caption("Address IP");
                             columns.AddFor(m => m.Type_Id).Caption("Tyle Line")
                             .Lookup(lookup => lookup
@@ -168,15 +168,7 @@
                             .DisplayExpr("line_name")
                             .ValueExpr("Id")
                             );
-                            columns.AddFor(m => m.Note)
-                            .Visible(false)
-                            .FormItem(i => i
-                            .Editor(e => e
-                            .TextArea()
-                            .InputAttr("aria-label", "Notes")
-                            .Height(100))
-                            .ColSpan(2)
-                            );
+                            columns.AddFor(m => m.Note);
                             columns.AddFor(m => m.Running).Caption("Station Approve")
                             .Lookup(lookup => lookup
                             .DataSource(d => d.Mvc().Controller("ComputerProduction").LoadAction("GetStatus").Key("Id"))
@@ -197,8 +189,75 @@
                 </div><!-- end card -->
             </div><!-- end card -->
         </div>
+
+        <div class="tab-pane" id="tabMachineDelivery" role="tabpanel" aria-labelledby="tabMachineDelivery-tab">
+            <div class="card">
+                <div class="card-body">
+                    @(Html.DevExtreme().DataGrid<MachineDelivery>()
+                        .ShowBorders(true)
+                        .Paging(paging => paging.Enabled(false))
+                        .HeaderFilter(f => f.Visible(true))
+                        .Grouping(g => g.AutoExpandAll(false))
+                        .ShowBorders(true)
+                        .FilterRow(filterRow => filterRow
+                        .Visible(true)
+                        .ApplyFilter(GridApplyFilterMode.Auto)
+                        )
+                        .SearchPanel(searchPanel => searchPanel
+                        .Visible(true)
+                        .Width(200)
+                        .Placeholder("Search  ...")
+                        )
+                        .HeaderFilter(headerFilter => headerFilter.Visible(true))
+                        .RemoteOperations(true)
+                        .Scrolling(s => s.Mode(GridScrollingMode.Virtual))
+                        .Height(550)
+                        .Summary(s => s.TotalItems(items =>
+                        {
+                            items.AddFor(m => m.IdComputer)
+                            .SummaryType(SummaryType.Count);
+                        })
+                        )
+                        .Editing(editing =>
+                        {
+                            editing.Mode(GridEditMode.Form);
+                            editing.AllowUpdating(true);
+                            editing.AllowAdding(true);
+                            editing.AllowDeleting(true);
+                        })
+                        .Columns(columns =>
+                        {            
+                            columns.AddFor(m => m.IdComputer).Caption("Computer Name")
+                            .Lookup(lookup => lookup
+                            .DataSource(d => d.Mvc().Controller("ComputerProduction").LoadAction("Get").Key("Id"))
+                            .DisplayExpr("HostName")
+                            .ValueExpr("Id")
+                            );
+                            columns.AddFor(m => m.IdPersonnel).Caption("Personnel")
+                            .Lookup(lookup => lookup
+                            .DataSource(d => d.Mvc().Controller("Personnel").LoadAction("Get").Key("Id"))
+                            .DisplayExpr("FullName")
+                            .ValueExpr("Id")
+                            );
+                            columns.AddFor(m => m.Note);
+                            columns.AddFor(m => m.DateCreate).Caption("CreateDate");
+
+                        })
+                        .DataSource(d => d.Mvc()
+                        .Controller("MachineDelivery")
+                        .LoadAction("Get")
+                        .UpdateAction("Put")
+                        .InsertAction("Post")
+                        .DeleteAction("Delete")
+                        .Key("Id")
+                        )
+                        )
+                </div><!-- end card -->
+            </div><!-- end card -->
+        </div>
         
     </div>
+
 </div>
 
 <script>
