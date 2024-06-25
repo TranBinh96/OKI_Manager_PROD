@@ -1,7 +1,7 @@
-﻿@using Production.Models
-
-
-
+﻿@page "/grid-popup"
+@using Production.Models
+@using DevExtreme.AspNet.Mvc
+@using DevExtreme.AspNet.Data
 <main>
     <section class="about about__style__two">
         <div class="container-fluid">
@@ -79,108 +79,34 @@
                                                 columns.AddFor(m => m.LineName).Caption("Line Name");
                                                 columns.AddFor(m => m.Note).Caption("Ghi Chú");
                                                 columns.AddFor(m => m.PersonCharge).Caption("Phụ Trách");
+                                                
                                             })
                                             .DataSource(d => d.Mvc()
                                             .Controller("DetailProduction")
                                             .LoadAction("Get")
-                                            .Key("Id")
+                                            .Key("Id")                                            
                                             )
+                                            @* .OnContextMenuPreparing("onContextMenuPreparing") *@
                                             )
-
-                                        <div class="task-info">
-                                            <div class="info">
-                                                <div id="taskSubject"></div>
-                                                <p id="taskDetails"></p>
-                                            </div>
-                                            <div class="progress">
-                                                <span id="taskStatus"></span>
-                                                <span id="taskProgress"></span>
-                                            </div>
-                                        </div>
-
-                                        <div class="options">
-                                            <div class="caption">Options</div>
-                                            <div class="options-container">
-                                                <div class="option">
-                                                    <span>Focused Row Key</span>
-                                                    @(Html.DevExtreme().NumberBox()
-                                                        .Min(1)
-                                                        .Max(183)
-                                                        .Step(1)
-                                                   @*      .InputAttr(new { "aria-label" = "Focused Row Key" }) *@
-                                                        .OnInitialized("onTaskIdEditorInitialized")
-                                                        .OnValueChanged("onTaskIdEditorValueChanged")
-                                                        )
-                                                </div>
-                                                <div class="option">
-                                                    @(Html.DevExtreme().CheckBox()
-                                                        .Text("Auto Navigate To Focused Row")
-                                                        .Value(true)
-                                                        .OnValueChanged("autoNavigateToFocusedRowChanged")
-                                                        )
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <script>
-                                            var dataGrid,
-                                                taskIdEditor;
-
-                                            function onTaskIdEditorInitialized(e) {
-                                                taskIdEditor = e.component;
-                                            }
-
-                                            function onTaskIdEditorValueChanged(e) {
-                                                if (e.event && e.value > 0) {
-                                                    dataGrid.option("focusedRowKey", e.value);
-                                                }
-                                            }
-
-                                            function autoNavigateToFocusedRowChanged(e) {
-                                                dataGrid.option("autoNavigateToFocusedRow", e.value);
-                                            }
-
-                                            function onDataGridInitialized(e) {
-                                                dataGrid = e.component;
-                                            }
-
-                                            function onFocusedRowChanging(e) {
-                                                var rowsCount = e.component.getVisibleRows().length,
-                                                    pageCount = e.component.pageCount(),
-                                                    pageIndex = e.component.pageIndex(),
-                                                    key = e.event && e.event.key;
-
-                                                if (key && e.prevRowIndex === e.newRowIndex) {
-                                                    if (e.newRowIndex === rowsCount - 1 && pageIndex < pageCount - 1) {
-                                                        e.component.pageIndex(pageIndex + 1).done(function () {
-                                                            e.component.option("focusedRowIndex", 0);
-                                                        });
-                                                    } else if (e.newRowIndex === 0 && pageIndex > 0) {
-                                                        e.component.pageIndex(pageIndex - 1).done(function () {
-                                                            e.component.option("focusedRowIndex", rowsCount - 1);
-                                                        });
-                                                    }
-                                                }
-                                            }
-
-                                            function onFocusedRowChanged(e) {
-                                                const rowData = e.row && e.row.data;
-
-                                                $("#taskSubject").html(rowData ? rowData.Task_Subject : "");
-                                                $("#taskDetails").html(rowData ? rowData.Task_Description : "");
-                                                $("#taskStatus").html(rowData ? rowData.Task_Status : "");
-
-                                                var progress = rowData && rowData.Task_Completion ? rowData.Task_Completion + "%" : "";
-                                                $("#taskProgress").text(progress);
-
-                                                taskIdEditor.option("value", e.component.option("focusedRowKey"));
-                                            }
-                                        </script>
-
 
                                    </div>                 
 
                                </div>
+
+                                <div id="popup" style="display:none">
+                                    @(Html.DevExtreme().Popup()
+                                        .ID("detailPopup")
+                                        .Width(500)
+                                        .Height(300)
+                                        .ShowTitle(true)
+                                        .Title("Computer Details")
+                                        .Visible(false)
+                                        .ContentTemplate(@<text>
+                                        <div> OK</div>
+                                    </text>)
+                                        )
+                                </div>
+
                                 
                             </div>
                             <div class="tab-pane fade" id="tool" role="tabpanel" aria-labelledby="tool-tab">

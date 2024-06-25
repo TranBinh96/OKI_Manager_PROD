@@ -93,26 +93,44 @@
     </div><!-- end col -->
 </div><!-- end row -->
 
+<div class="col-xl-12">
+    <div class="card">
+        <div class="card-body">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs nav-tabs-custom nav-justified" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#home1" role="tab">
+                        <span class="d-block d-sm-none"><i class="fas fa-home"></i></span>
+                        <span class="d-none d-sm-block">Computer</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#profile1" role="tab">
+                        <span class="d-block d-sm-none"><i class="far fa-user"></i></span>
+                        <span class="d-none d-sm-block">Machine Delivery</span>
+                    </a>
+                </li>
+                @* <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#messages1" role="tab">
+                        <span class="d-block d-sm-none"><i class="far fa-envelope"></i></span>
+                        <span class="d-none d-sm-block">Messages</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#settings1" role="tab">
+                        <span class="d-block d-sm-none"><i class="fas fa-cog"></i></span>
+                        <span class="d-none d-sm-block">Settings</span>
+                    </a>
+                </li> *@
+            </ul>
 
-<div role="tabpanel">
-    <ul id="myTab" class="nav nav-tabs" role="tablist">
-        <li class="nav-item">
-            <button class="nav-link active" id="tabComputer-tab" data-bs-toggle="tab" data-bs-target="#tabComputer" type="button" role="tab" aria-controls="tab1" aria-selected="true">Computer Production</button>
-        </li>
-        <li class="nav-item">
-            <button class="nav-link" id="tabMachineDeliveryt-tab" data-bs-toggle="tab" data-bs-target="#tabMachineDelivery" type="button" role="tab" aria-controls="tab2" aria-selected="false">MachineDelivery</button>
-        </li>
-        <li class="nav-item">
-            <button class="nav-link" id="tabType-tab" data-bs-toggle="tab" data-bs-target="#tabType" type="button" role="tab" aria-controls="tab3" aria-selected="false">Type Line Production</button>
-        </li>
-    </ul>
-    <div id="myTabContent" class="tab-content">
-        <div class="tab-pane fade show active" id="tabComputer" role="tabpanel" aria-labelledby="tabComputer-tab">
-            <div class="card">
-                <div class="card-body">
+            <!-- Tab panes -->
+            <div class="tab-content p-3 text-muted">
+                <div class="tab-pane active" id="home1" role="tabpanel">
                     @(Html.DevExtreme().DataGrid<Computer_Production>()
                         .ID("gridContainer")
                         .ShowBorders(true)
+                        .WordWrapEnabled(true)
                         .Paging(paging => paging.Enabled(false))
                         .HeaderFilter(f => f.Visible(true))
                         .Grouping(g => g.AutoExpandAll(false))
@@ -186,19 +204,15 @@
                         .Key("Id")
                         )
                         )
-                </div><!-- end card -->
-            </div><!-- end card -->
-        </div>
-
-        <div class="tab-pane" id="tabMachineDelivery" role="tabpanel" aria-labelledby="tabMachineDelivery-tab">
-            <div class="card">
-                <div class="card-body">
+                </div>
+                <div class="tab-pane" id="profile1" role="tabpanel">
                     @(Html.DevExtreme().DataGrid<MachineDelivery>()
                         .ShowBorders(true)
                         .Paging(paging => paging.Enabled(false))
                         .HeaderFilter(f => f.Visible(true))
                         .Grouping(g => g.AutoExpandAll(false))
                         .ShowBorders(true)
+                        .WordWrapEnabled(true)
                         .FilterRow(filterRow => filterRow
                         .Visible(true)
                         .ApplyFilter(GridApplyFilterMode.Auto)
@@ -226,7 +240,7 @@
                             editing.AllowDeleting(true);
                         })
                         .Columns(columns =>
-                        {            
+                        {
                             columns.AddFor(m => m.IdComputer).Caption("Computer Name")
                             .Lookup(lookup => lookup
                             .DataSource(d => d.Mvc().Controller("ComputerProduction").LoadAction("Get").Key("Id"))
@@ -252,17 +266,17 @@
                         .Key("Id")
                         )
                         )
-                </div><!-- end card -->
-            </div><!-- end card -->
-        </div>
-        
-    </div>
+                </div>
+                <div class="tab-pane" id="messages1" role="tabpanel">
+                   
+                </div>
+                <div class="tab-pane" id="settings1" role="tabpanel">
+                   
+                </div>
+            </div>
 
+        </div>
+    </div>
 </div>
 
-<script>
-    // Initialize Bootstrap tab plugin
-    var myTab = new bootstrap.Tab(document.getElementById('myTab'));
-    var tabContent = new bootstrap.TabContent(document.getElementById('myTabContent'));
-    myTab.show('tabComputer-tab');
-</script>
+                   

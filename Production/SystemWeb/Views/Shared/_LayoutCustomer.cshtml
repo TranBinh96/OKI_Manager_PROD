@@ -62,16 +62,28 @@
                                             </ul>
                                         </li>
                                         <li><a href="#">Liên Hệ</a></li>
+                                        @if (SignInManager.IsSignedIn(User))
+                                        {
+                                            <li>
+                                                <a asp-area="Admin" asp-controller="Dashboard" asp-action="Index">
+                                                    <i class="ri-contacts-fill"></i>
+                                                    <span>Manager</span>
+                                                </a>
+                                            </li>
+                                            
+                                        }
+
+
                                         <li class="menu-item-has-children">
                                             <a href="#">Hệ Thống</a>
                                             <ul class="sub-menu">
                                                 @if (SignInManager.IsSignedIn(User))
                                                 {
                                                     <li class="nav-item">
-                                                        <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @UserManager.GetUserName(User)!</a>
+                                                        <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @UserManager.GetUserName(User)</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                                                        <form id="logoutForm" class="nav-link text-darke" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
                                                             <button id="logout" type="submit" class="nav-link btn btn-link text-dark">Logout</button>
                                                         </form>
                                                     </li>

@@ -4,6 +4,8 @@ using Production.DataAccess.Repository.IRespository;
 using Production.DataAccess.Repository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using Production.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,9 +24,16 @@ builder.Services.AddCors(options =>
          .AllowAnyHeader()
          .AllowAnyMethod());
 });
-builder.Services.AddDefaultIdentity<IdentityUser>()
+
+builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddSingleton<IEmailSender, EmailSender>();
+
+
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
+
+
 
 var app = builder.Build();
 
@@ -34,19 +43,25 @@ if (!app.Environment.IsDevelopment())
     app.UseExceptionHandler("/Home/Error");
 }
 app.UseStaticFiles();
-
+app.UseCors("CorsApi");
 app.UseRouting();
 app.UseAuthentication();;
 
-app.UseAuthorization();
+app.UseRouting();
+
 app.MapRazorPages();
 
-app.UseRouting();
-app.UseCors("CorsApi");
-
-app.MapControllerRoute(
+/*app.MapControllerRoute(
     name: "default",
     pattern: "{area=Customer}/{controller=DetailProduction}/{action=Index}/{id?}");
+*/
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllerRoute(
+       name: "default",
+        pattern: "{area=Customer}/{controller=DetailProduction}/{action=Index}/{id?}");
+});
 app.Run();
 
 
