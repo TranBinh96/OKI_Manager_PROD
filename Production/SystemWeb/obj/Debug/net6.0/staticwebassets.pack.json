@@ -249,6 +249,10 @@
       "PackagePath": "staticwebassets\\assets\\fonts\\remixicon.woff2"
     },
     {
+      "Id": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\assets\\images\\OKI-Logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\OKI-Logo.png"
+    },
+    {
       "Id": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\assets\\images\\auth-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\auth-bg.jpg"
     },
@@ -395,10 +399,6 @@
     {
       "Id": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\assets\\images\\megamenu-img.png",
       "PackagePath": "staticwebassets\\assets\\images\\megamenu-img.png"
-    },
-    {
-      "Id": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\assets\\images\\oki-logo.png",
-      "PackagePath": "staticwebassets\\assets\\images\\oki-logo.png"
     },
     {
       "Id": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\assets\\images\\oki.png",

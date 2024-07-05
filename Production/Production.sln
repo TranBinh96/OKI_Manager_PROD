@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DevExtreme NuGet.config", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SystemWeb", "SystemWeb\SystemWeb.csproj", "{2A57490B-07B5-4616-B4B8-85965F3C0E4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Production.Utility", "Production.Utility\Production.Utility.csproj", "{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Production.Utility", "Production.Utility\Production.Utility.csproj", "{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

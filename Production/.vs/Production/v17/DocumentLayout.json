@@ -7,211 +7,139 @@
       "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\views\\line\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\views\\line\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\customer\\views\\detailproduction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\views\\detailproduction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\customer\\controllers\\typelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\controllers\\typelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\apicontroller\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\apicontroller\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.models\\detailcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|solutionrelative:production.models\\detailcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\linerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\linerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\wwwroot\\assets\\js\\pages\\datatables.init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\wwwroot\\assets\\js\\pages\\datatables.init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\wwwroot\\js\\computer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\wwwroot\\js\\computer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\views\\computerproduction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\views\\computerproduction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\wwwroot\\assets\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\wwwroot\\assets\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\customer\\controllers\\detailproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\controllers\\detailproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BINHTT\\AppData\\Local\\SourceServer\\52e4d8328ef8d0482f83c17aab36994548f09c32a35392a96bc772a0ab99a247\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\apicontroller\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\apicontroller\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.utility\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|solutionrelative:production.utility\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|solutionrelative:production.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|solutionrelative:production.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\computerproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\computerproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.models\\computer_production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|solutionrelative:production.models\\computer_production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\wwwroot\\js\\vendor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\wwwroot\\js\\vendor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\typelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\typelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\wwwroot\\js\\mybody.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\wwwroot\\js\\mybody.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.models\\typeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|solutionrelative:production.models\\typeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\computerproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\computerproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\views\\shared\\_layoutidentity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\views\\shared\\_layoutidentity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\apicontroller\\softwarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\apicontroller\\softwarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.utility\\production.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|solutionrelative:production.utility\\production.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.utility\\production.utility.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{0AD03957-5D3E-4007-9C8D-1001EDF7F88F}|Production.Utility\\Production.Utility.csproj|solutionrelative:production.utility\\production.utility.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\systemweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\systemweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\migrations\\20240624024940_addindentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\migrations\\20240624024940_addindentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\machinedeliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\machinedeliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\irespository\\icomputerproductionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\irespository\\icomputerproductionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\irespository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\irespository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\computerproductionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\computerproductionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.models\\diskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|solutionrelative:production.models\\diskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\systemweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\systemweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.models\\response\\computerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|solutionrelative:production.models\\response\\computerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.models\\computer_production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|solutionrelative:production.models\\computer_production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\typelinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\typelinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.models\\softwareinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC68C45-5F52-41E8-AD06-B5A8196DE34F}|Production.Models\\Production.Models.csproj|solutionrelative:production.models\\softwareinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\customer\\controllers\\detailproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\controllers\\detailproductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\softwarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\softwarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\admin\\controllers\\personnelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\admin\\controllers\\personnelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\toolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\toolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\migrations\\20240624024940_addindentityuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\migrations\\20240624024940_addindentityuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\areas\\customer\\controllers\\detailtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\areas\\customer\\controllers\\detailtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BINHTT\\AppData\\Local\\SourceServer\\6ea97142dec3decddb45a3ff8cec31d024a50104141635c66becb85c70a1af2a\\src\\EFCore\\Query\\Internal\\ParameterExtractingExpressionVisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\properties\\publishprofiles\\folderprofile1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\properties\\publishprofiles\\folderprofile1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\machinedeliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\machinedeliveryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\systemweb\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2A57490B-07B5-4616-B4B8-85965F3C0E4F}|SystemWeb\\SystemWeb.csproj|solutionrelative:systemweb\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\personnelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\personnelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\linerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\linerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\computerproductionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\computerproductionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\migrations\\20240624024940_addindentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\migrations\\20240624024940_addindentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|c:\\users\\binhtt\\desktop\\oki.pe.git\\oki_manager_prod\\production\\production.dataaccess\\repository\\diskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB041635-630C-40D7-941B-050BEA1270AB}|Production.DataAccess\\Production.DataAccess.csproj|solutionrelative:production.dataaccess\\repository\\diskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -221,8 +149,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "computer.js",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\js\\computer.js",
+              "RelativeDocumentMoniker": "SystemWeb\\wwwroot\\js\\computer.js",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\js\\computer.js",
+              "RelativeToolTip": "SystemWeb\\wwwroot\\js\\computer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-25T15:27:55.23Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -233,690 +175,413 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\ComputerProduction\\Index.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Views\\ComputerProduction\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\ComputerProduction\\Index.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Views\\ComputerProduction\\Index.cshtml",
-              "ViewState": "AQIAALMAAAAAZmZmZmYOwMwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T10:07:10.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Views\\DetailProduction\\Index.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Views\\DetailProduction\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Views\\DetailProduction\\Index.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Views\\DetailProduction\\Index.cshtml",
-              "ViewState": "AQIAAIoAAAAAAAAAAAAAAFwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T09:43:18.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\EmailSender.cs",
-              "RelativeDocumentMoniker": "Production.Utility\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\EmailSender.cs",
-              "RelativeToolTip": "Production.Utility\\EmailSender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T07:25:54.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DetailComputer.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\DetailComputer.cs",
-              "RelativeDocumentMoniker": "Production.Models\\DetailComputer.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\DetailComputer.cs",
-              "RelativeToolTip": "Production.Models\\DetailComputer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:45:51.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ComputerController.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\APIController\\ComputerController.cs",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\APIController\\ComputerController.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\APIController\\ComputerController.cs",
-              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\APIController\\ComputerController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwB0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:04:24.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAMYAAAAAAAAAAAAAAOMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T10:07:19.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\Line\\Index.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Views\\Line\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\Line\\Index.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Views\\Line\\Index.cshtml",
-              "ViewState": "AQIAAGkBAAAAAAAAAADwv24AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T15:40:28.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LayoutCustomer.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "RelativeToolTip": "SystemWeb\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAYwEoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T09:57:55.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "SystemWeb\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeToolTip": "SystemWeb\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAALoBAAAAAAAAAAAiwNMBAAA1AAAA",
+              "ViewState": "AQIAANMAAAAAAAAAAAD4v9sAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T13:22:49.537Z",
+              "WhenOpened": "2024-06-25T16:22:07.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "datatables.init.js",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\assets\\js\\pages\\datatables.init.js",
-              "RelativeDocumentMoniker": "SystemWeb\\wwwroot\\assets\\js\\pages\\datatables.init.js",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\assets\\js\\pages\\datatables.init.js",
-              "RelativeToolTip": "SystemWeb\\wwwroot\\assets\\js\\pages\\datatables.init.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYCgAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-25T03:35:50.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\LineRepository.cs",
-              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\LineRepository.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\LineRepository.cs",
-              "RelativeToolTip": "Production.DataAccess\\Repository\\LineRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T03:38:03.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TypeLineController.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\TypeLineController.cs",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Controllers\\TypeLineController.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\TypeLineController.cs",
-              "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Controllers\\TypeLineController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T03:40:33.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "SystemWeb\\appsettings.json",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\appsettings.json",
-              "RelativeToolTip": "SystemWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-23T08:58:15.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Model\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Production.DataAccess\\Model\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Model\\ApplicationUser.cs",
-              "RelativeToolTip": "Production.DataAccess\\Model\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:45:06.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Monitor.CoreCLR.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\AppData\\Local\\SourceServer\\52e4d8328ef8d0482f83c17aab36994548f09c32a35392a96bc772a0ab99a247\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\52e4d8328ef8d0482f83c17aab36994548f09c32a35392a96bc772a0ab99a247\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\AppData\\Local\\SourceServer\\52e4d8328ef8d0482f83c17aab36994548f09c32a35392a96bc772a0ab99a247\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\52e4d8328ef8d0482f83c17aab36994548f09c32a35392a96bc772a0ab99a247\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
-              "ViewState": "AQIAAJEAAAAAAAAAAAAwwJ4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:48:45.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "app.js",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\assets\\js\\app.js",
-              "RelativeDocumentMoniker": "SystemWeb\\wwwroot\\assets\\js\\app.js",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\assets\\js\\app.js",
-              "RelativeToolTip": "SystemWeb\\wwwroot\\assets\\js\\app.js",
-              "ViewState": "AQIAAC0AAAAAAAAAAADwvzgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-25T03:25:24.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\SD.cs",
-              "RelativeDocumentMoniker": "Production.Utility\\SD.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\SD.cs",
-              "RelativeToolTip": "Production.Utility\\SD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T07:14:52.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Router.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\Router.cs",
-              "RelativeDocumentMoniker": "Production.Utility\\Router.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\Router.cs",
-              "RelativeToolTip": "Production.Utility\\Router.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:28:08.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:00:03.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ComputerProductionController.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\ComputerProductionController.cs",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\ComputerProductionController.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\ComputerProductionController.cs",
-              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\ComputerProductionController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:29:06.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Computer_Production.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\Computer_Production.cs",
-              "RelativeDocumentMoniker": "Production.Models\\Computer_Production.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\Computer_Production.cs",
-              "RelativeToolTip": "Production.Models\\Computer_Production.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:01:12.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAACcAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T13:30:31.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAABMAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T13:23:16.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Site.css",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\css\\Site.css",
-              "RelativeDocumentMoniker": "SystemWeb\\wwwroot\\css\\Site.css",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\css\\Site.css",
-              "RelativeToolTip": "SystemWeb\\wwwroot\\css\\Site.css",
-              "ViewState": "AQIAAMsAAACAmZmZmZkjwB0BAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-25T01:42:18.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TypeLineController.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\TypeLineController.cs",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\TypeLineController.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\TypeLineController.cs",
-              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\TypeLineController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T16:04:21.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TypeLine.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\TypeLine.cs",
-              "RelativeDocumentMoniker": "Production.Models\\TypeLine.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\TypeLine.cs",
-              "RelativeToolTip": "Production.Models\\TypeLine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T16:02:56.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_LayoutIdentity.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Views\\Shared\\_LayoutIdentity.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Views\\Shared\\_LayoutIdentity.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Views\\Shared\\_LayoutIdentity.cshtml",
-              "RelativeToolTip": "SystemWeb\\Views\\Shared\\_LayoutIdentity.cshtml",
-              "ViewState": "AQIAAB4AAABAMzMzMzMrwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T13:25:26.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Program.cs",
-              "RelativeDocumentMoniker": "SystemWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Program.cs",
-              "RelativeToolTip": "SystemWeb\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAIAwwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T08:54:53.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAIwIkAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T07:11:02.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "SystemWeb",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\SystemWeb.csproj",
-              "RelativeDocumentMoniker": "SystemWeb\\SystemWeb.csproj",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\SystemWeb.csproj",
-              "RelativeToolTip": "SystemWeb\\SystemWeb.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-24T07:35:36.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAkwFcAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:21:35.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Production.Utility",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\Production.Utility.csproj",
-              "RelativeDocumentMoniker": "Production.Utility\\Production.Utility.csproj",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\Production.Utility.csproj",
-              "RelativeToolTip": "Production.Utility\\Production.Utility.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-24T07:41:31.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Production.Utility",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\Production.Utility.csproj",
-              "RelativeDocumentMoniker": "Production.Utility\\Production.Utility.csproj",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Utility\\Production.Utility.csproj",
-              "RelativeToolTip": "Production.Utility\\Production.Utility.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-24T07:41:38.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T05:23:40.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T13:23:05.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ResetPasswordConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T05:23:44.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T05:24:52.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "SystemWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T08:58:45.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Production.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Production.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:09:50.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T02:39:15.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "20240624024940_AddIndentityUser.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.cs",
-              "RelativeDocumentMoniker": "Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.cs",
-              "RelativeToolTip": "Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.cs",
-              "ViewState": "AQIAAMgAAAAAAAAAAAA6wF4AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:49:40.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "IComputerProductionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\IRespository\\IComputerProductionRepository.cs",
-              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\IRespository\\IComputerProductionRepository.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\IRespository\\IComputerProductionRepository.cs",
-              "RelativeToolTip": "Production.DataAccess\\Repository\\IRespository\\IComputerProductionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:46:04.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ComputerProductionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\ComputerProductionRepository.cs",
-              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\ComputerProductionRepository.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\ComputerProductionRepository.cs",
-              "RelativeToolTip": "Production.DataAccess\\Repository\\ComputerProductionRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAEwBAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:11:56.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "SystemWeb",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\SystemWeb.csproj",
-              "RelativeDocumentMoniker": "SystemWeb\\SystemWeb.csproj",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\SystemWeb.csproj",
-              "RelativeToolTip": "SystemWeb\\SystemWeb.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-23T16:33:05.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "UnitRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\UnitRepository.cs",
-              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\UnitRepository.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\UnitRepository.cs",
-              "RelativeToolTip": "Production.DataAccess\\Repository\\UnitRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAEwBAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:13:59.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ForgotPasswordConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T13:56:31.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T13:56:25.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "DetailToolController.cs",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\DetailToolController.cs",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Controllers\\DetailToolController.cs",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\DetailToolController.cs",
-              "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Controllers\\DetailToolController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T09:43:11.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "SystemWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T13:23:04.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 3,
               "Title": "DetailProductionController.cs",
               "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\DetailProductionController.cs",
               "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Controllers\\DetailProductionController.cs",
               "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\DetailProductionController.cs",
               "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Controllers\\DetailProductionController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T09:43:08.052Z",
+              "WhenOpened": "2024-06-26T09:27:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputerController.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\APIController\\ComputerController.cs",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\APIController\\ComputerController.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\APIController\\ComputerController.cs",
+              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\APIController\\ComputerController.cs",
+              "ViewState": "AQIAAEQAAAAAMzMzMzMbwGQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:37:08.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Production.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:28:52.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiskInfo.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\DiskInfo.cs",
+              "RelativeDocumentMoniker": "Production.Models\\DiskInfo.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\DiskInfo.cs",
+              "RelativeToolTip": "Production.Models\\DiskInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:31:45.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAMoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T15:46:21.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\ComputerProduction\\Index.cshtml",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Views\\ComputerProduction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Views\\ComputerProduction\\Index.cshtml",
+              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Views\\ComputerProduction\\Index.cshtml",
+              "ViewState": "AQIAAC4BAAAAAAAAAAAuwGABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T05:50:59.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "FolderProfile1.pubxml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
-              "RelativeDocumentMoniker": "SystemWeb\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
-              "RelativeToolTip": "SystemWeb\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "DocumentIndex": 10,
+              "Title": "SoftwareController.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\APIController\\SoftwareController.cs",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\APIController\\SoftwareController.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\APIController\\SoftwareController.cs",
+              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\APIController\\SoftwareController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:39:23.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vendor.js",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\js\\vendor.js",
+              "RelativeDocumentMoniker": "SystemWeb\\wwwroot\\js\\vendor.js",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\js\\vendor.js",
+              "RelativeToolTip": "SystemWeb\\wwwroot\\js\\vendor.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-06-23T09:01:50.616Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-26T09:41:26.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "FolderProfile.pubxml",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Properties\\PublishProfiles\\FolderProfile.pubxml",
-              "RelativeDocumentMoniker": "SystemWeb\\Properties\\PublishProfiles\\FolderProfile.pubxml",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Properties\\PublishProfiles\\FolderProfile.pubxml",
-              "RelativeToolTip": "SystemWeb\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "DocumentIndex": 6,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\css\\Site.css",
+              "RelativeDocumentMoniker": "SystemWeb\\wwwroot\\css\\Site.css",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\css\\Site.css",
+              "RelativeToolTip": "SystemWeb\\wwwroot\\css\\Site.css",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAAAB4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T09:41:37.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mybody.js",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\js\\mybody.js",
+              "RelativeDocumentMoniker": "SystemWeb\\wwwroot\\js\\mybody.js",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\wwwroot\\js\\mybody.js",
+              "RelativeToolTip": "SystemWeb\\wwwroot\\js\\mybody.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-06-23T09:01:47.293Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-25T16:06:25.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SystemWeb\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SystemWeb\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAEAAAAAAAAAAABhwBEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-23T08:53:23.086Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "ComputerProductionController.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\ComputerProductionController.cs",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\ComputerProductionController.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\ComputerProductionController.cs",
+              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\ComputerProductionController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAA4wBkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:25:04.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DiskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\DiskRepository.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\DiskRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\DiskRepository.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\DiskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:05:01.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MachineDeliveryController.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\MachineDeliveryController.cs",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\MachineDeliveryController.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\MachineDeliveryController.cs",
+              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\MachineDeliveryController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:22:24.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ComputerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\Response\\ComputerResponse.cs",
+              "RelativeDocumentMoniker": "Production.Models\\Response\\ComputerResponse.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\Response\\ComputerResponse.cs",
+              "RelativeToolTip": "Production.Models\\Response\\ComputerResponse.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wBIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:22:31.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\IRespository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\IRespository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\IRespository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\IRespository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:03:53.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Production.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:57:54.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Computer_Production.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\Computer_Production.cs",
+              "RelativeDocumentMoniker": "Production.Models\\Computer_Production.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\Computer_Production.cs",
+              "RelativeToolTip": "Production.Models\\Computer_Production.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:17:55.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:43.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TypeLineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\TypeLineRepository.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\TypeLineRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\TypeLineRepository.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\TypeLineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:31.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ToolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\ToolRepository.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\ToolRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\ToolRepository.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\ToolRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:39.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240624024940_AddIndentityUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.Designer.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.Designer.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.Designer.cs",
+              "RelativeToolTip": "Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:48.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SoftwareController.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\SoftwareController.cs",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\SoftwareController.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\SoftwareController.cs",
+              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\SoftwareController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:36:41.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SoftwareInfo.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\SoftwareInfo.cs",
+              "RelativeDocumentMoniker": "Production.Models\\SoftwareInfo.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.Models\\SoftwareInfo.cs",
+              "RelativeToolTip": "Production.Models\\SoftwareInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:56:39.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DetailToolController.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\DetailToolController.cs",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Customer\\Controllers\\DetailToolController.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Customer\\Controllers\\DetailToolController.cs",
+              "RelativeToolTip": "SystemWeb\\Areas\\Customer\\Controllers\\DetailToolController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:36:48.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonnelController.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\PersonnelController.cs",
+              "RelativeDocumentMoniker": "SystemWeb\\Areas\\Admin\\Controllers\\PersonnelController.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\SystemWeb\\Areas\\Admin\\Controllers\\PersonnelController.cs",
+              "RelativeToolTip": "SystemWeb\\Areas\\Admin\\Controllers\\PersonnelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:27:59.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ParameterExtractingExpressionVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\AppData\\Local\\SourceServer\\6ea97142dec3decddb45a3ff8cec31d024a50104141635c66becb85c70a1af2a\\src\\EFCore\\Query\\Internal\\ParameterExtractingExpressionVisitor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\6ea97142dec3decddb45a3ff8cec31d024a50104141635c66becb85c70a1af2a\\src\\EFCore\\Query\\Internal\\ParameterExtractingExpressionVisitor.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\AppData\\Local\\SourceServer\\6ea97142dec3decddb45a3ff8cec31d024a50104141635c66becb85c70a1af2a\\src\\EFCore\\Query\\Internal\\ParameterExtractingExpressionVisitor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\6ea97142dec3decddb45a3ff8cec31d024a50104141635c66becb85c70a1af2a\\src\\EFCore\\Query\\Internal\\ParameterExtractingExpressionVisitor.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAuwMMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:01:28.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UnitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\UnitRepository.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\UnitRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\UnitRepository.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\UnitRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:35.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:27.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PersonnelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\PersonnelRepository.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\PersonnelRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\PersonnelRepository.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\PersonnelRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:22.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MachineDeliveryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\MachineDeliveryRepository.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\MachineDeliveryRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\MachineDeliveryRepository.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\MachineDeliveryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:18.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\LineRepository.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\LineRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\LineRepository.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\LineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:14.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ComputerProductionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\ComputerProductionRepository.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Repository\\ComputerProductionRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Repository\\ComputerProductionRepository.cs",
+              "RelativeToolTip": "Production.DataAccess\\Repository\\ComputerProductionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:06.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240624024940_AddIndentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.cs",
+              "RelativeDocumentMoniker": "Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\OKI.PE.GIT\\OKI_Manager_PROD\\Production\\Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.cs",
+              "RelativeToolTip": "Production.DataAccess\\Migrations\\20240624024940_AddIndentityUser.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:28:58.681Z"
             }
           ]
         }

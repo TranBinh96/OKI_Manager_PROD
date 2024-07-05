@@ -1,4 +1,4 @@
-﻿using Bulky.DataAccess.Data;
+﻿using Production.DataAccess.Data;
 using Production.DataAccess.Repository.IRespository;
 using Production.Models;
 
@@ -18,6 +18,8 @@ public class UnitOfWork : IUnitOfWork
         Tool = new ToolRepository(_db);
         Personnel = new PersonnelRepository(_db);
         MachineDelivery = new MachineDeliveryRepository(_db);
+        SoftwareRepository = new SoftwareRepository(_db);
+        DiskRepository = new DiskRepository(_db);   
     }
     public ILineRepository Line { get; private set; }
     public IUnitRepository Unit { get; private set; }
@@ -25,8 +27,11 @@ public class UnitOfWork : IUnitOfWork
     public IComputerProductionRepository Computer { get; }
     public IDetailComputerRepository DetailComputer { get; private set; }
     public IToolRepository Tool { get; private set; }
-    public IMachineDeliveryRepository MachineDelivery { get; private set; }
+    public IMachineDeliveryRepository MachineDelivery { get; private set; }    
+    public ISoftwareRepository SoftwareRepository { get; }
     public IPersonnelRepository Personnel { get; private set; }
+
+    public IDiskRepository DiskRepository { get; private set; }
 
     public void Save()
     {

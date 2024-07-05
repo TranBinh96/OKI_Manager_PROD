@@ -31,7 +31,8 @@ namespace SystemWeb.Areas.Admin.Controllers
                 new { Id = 1, Status = "OK" },
                 new { Id = 2, Status = "Approve" },
                 new { Id = 3, Status = "PC NEW" },
-                new { Id = 4, Status = "PC SETUP OK" }
+                new { Id = 4, Status = "PC SETUP OK" },
+                new { Id = 5, Status = "PC ERROR" }
             };
             return DataSourceLoader.Load(status, loadOptions);
         }

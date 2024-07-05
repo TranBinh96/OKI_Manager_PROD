@@ -16,10 +16,12 @@ namespace SystemWeb.Areas.Customer.Controllers
         {
             _unitOfWork = unitOfWork;
         }
+        /*
         public IActionResult Index()
         {
             return View();
         }
+        */
 
 
         [HttpGet]

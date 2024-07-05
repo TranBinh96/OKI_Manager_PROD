@@ -9,5 +9,7 @@ public interface IUnitOfWork
     IToolRepository Tool { get; }
     IPersonnelRepository Personnel { get; }
     IMachineDeliveryRepository MachineDelivery { get; }
+    ISoftwareRepository  SoftwareRepository { get; }
+    IDiskRepository DiskRepository { get; } 
     void Save();
 }

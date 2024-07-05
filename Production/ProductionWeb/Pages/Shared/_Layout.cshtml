@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html>
 <head>
@@ -8,66 +8,36 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>OKI VN PE</title>
+    <title>ProductionWeb</title>
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
     @* Uncomment to use the HtmlEditor control *@
     @* <script src="https://unpkg.com/devextreme-quill@21_2/dist/dx-quill.min.js"></script> *@
-    @*     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" /> *@
 
     <link rel="stylesheet" href="~/css/vendor.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/fontawesome/css/all.min.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/Site.css" />
     <script src="~/js/vendor.js" asp-append-version="true"></script>
-    <script src="~/js/mybody.js" asp-append-version="true"></script>
 </head>
 
-<body>
-    <div class="navbar navbar-expand-md navbar-dark bg-dark " role="navigation">
-        <a class="navbar-brand" href="#">OKI VN PE</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+<body style="padding-top: 5rem;">
+
+    <nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-md">
+        <a class="navbar-brand" href="/">ProductionWeb</a>
+
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
+
+        <div id="navbar" class="collapse navbar-collapse">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" id="dropdown2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <i class="fas fa-cogs"></i> Manager Production
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="dropdown2">
-                        <li class="dropdown-item dropdown">
-                            <a class="dropdown-toggle" id="dropdown2-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-layer-group"></i> Device</a>
-                            <ul class="dropdown-menu" aria-labelledby="dropdown2-1">
-                                <li class="dropdown-item" href="#"><a><i class="fa-solid fa-computer"></i>  Computer</a></li>
-                                <li class="dropdown-item" href="#"><a><i class="fa-brands fa-usb"></i>  USB</a></li>
-                            </ul>
-                        </li>
-
-                        <li class="dropdown-item dropdown">
-                            <a class="dropdown-toggle" id="dropdown2-1-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fa-solid fa-group-arrows-rotate"></i> Manufacture</a>
-                            <ul class="dropdown-menu" aria-labelledby="dropdown2-1-2">
-                                <li class="dropdown-item" href="#"><a><i class="fa-solid fa-globe"></i>  Network Band</a></li>
-                                <li class="dropdown-item" href="#"><a><i class="fa-solid fa-arrows-left-right-to-line"></i>  Production Line</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-
-            </ul>
-            <ul class="navbar-nav ml-auto">
-                <!-- Thêm class ml-auto để đẩy nó về bên phải -->
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-solid fa-right-to-bracket"></i> Login</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fa-solid fa-user-gear"></i> Register</a>
-                </li>
+                <li class="active nav-item"><a href="#" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
             </ul>
         </div>
-    </div>
+    </nav>
 
-
-    <main role="main">
+    <main role="main" class="container">
         @RenderBody()
     </main>
 </body>

@@ -11,6 +11,9 @@
     <WebStackScaffolding_DependencyDialogWidth>650</WebStackScaffolding_DependencyDialogWidth>
     <WebStackScaffolding_ViewDialogWidth>800</WebStackScaffolding_ViewDialogWidth>
     <ActiveDebugProfile>SystemWeb</ActiveDebugProfile>
+    <DevExtremeCreateAsPartial>False</DevExtremeCreateAsPartial>
+    <DevExtremeUseLayout>True</DevExtremeUseLayout>
+    <DevExtremeSelectedDataContextName>ApplicationDbContext %28Bulky.DataAccess.Data%29</DevExtremeSelectedDataContextName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>

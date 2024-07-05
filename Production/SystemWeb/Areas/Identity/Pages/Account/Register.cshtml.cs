@@ -78,13 +78,8 @@ namespace SystemWeb.Areas.Identity.Pages.Account
 
             public string ConfirmPassword { get; set; }
             [Required]
-            [Display(Name = "User Name")]
             public string? Name { get; set; }
-            [Required]
-            [Display(Name = "State")]
-            public string? State { get; set; }
-            [Required]
-            [Display(Name = "Room")]
+            public string? PhoneNumber { get; set; }
             public string? Room { get; set; }
             public string? Role { get; set; }
             [ValidateNever]
@@ -101,17 +96,17 @@ namespace SystemWeb.Areas.Identity.Pages.Account
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_User_Comp)).GetAwaiter().GetResult();
             }
 
+            ReturnUrl = returnUrl;
+            ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             Input = new InputModel()
             {
                 RoleList = _roleManager.Roles.Select(x => x.Name).Select(
-                   i => new SelectListItem
-                   {
-                       Text = i,
-                       Value = i
-                   })
+                    i => new SelectListItem
+                    {
+                        Text = i,
+                        Value = i
+                    })
             };
-            ReturnUrl = returnUrl;
-            ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
         }
 
         public async Task<IActionResult> OnPostAsync(string returnUrl = null)
@@ -124,6 +119,9 @@ namespace SystemWeb.Areas.Identity.Pages.Account
 
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
+                user.Name = Input.Name;
+                user.PhoneNumber = Input.PhoneNumber;
+                user.Room = Input.Room;
 
                 var result = await _userManager.CreateAsync(user, Input.Password);
                 if (result.Succeeded)

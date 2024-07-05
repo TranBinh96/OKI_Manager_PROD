@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Production.DataAccess.Model;
 using Production.Models;
 
-namespace Bulky.DataAccess.Data
+namespace Production.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
@@ -19,6 +19,8 @@ namespace Bulky.DataAccess.Data
         public DbSet<MachineDelivery> MachineDeliverys { get; set; }
         public DbSet<Personnel> Personnel { get; set; }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<DiskInfo> DiskInfo { get; set; }
+        public DbSet<SoftwareInfo> SoftwareInfo { get; set; }
 
     }
 }
